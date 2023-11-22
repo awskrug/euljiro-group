@@ -2,7 +2,7 @@
 
 ## 모임 소개
 
-![을지로 소모임](euljiromi.png)
+![을지로 소모임](./assets/euljiromi.png)
 
 서울 을지로 인근(광화문, 종로, 서울역, 서울시청, 남산 등)에서 이뤄지고 있는 주제에 제한이 없는 모임입니다. 반드시 을지로 인근 직장에 다니실 필요는 없으며 학생/직장인 구분 없이 참여 가능합니다.
 AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하고 싶은 이야기 나누며 자유롭게 소통해요.
@@ -32,6 +32,6 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 
   #### `1회 밋업`
 
-  - AWS Lambda를 이용한 Slack 봇 게이트웨이 개발기 - [김수빈](https://github.com/sudosubin) 님
+  - AWS Lambda를 이용한 Slack 봇 게이트웨이 개발기 - [김수빈](https://github.com/sudosubin) 님 ([발표 자료](presentations/김수빈_AWS_Lambda를_이용한_Slack_봇_게이트웨이_개발기.pdf))
   - [AWSKRUG #을지로 소모임 (10월 18일)](https://www.meetup.com/awskrug/events/296565392/)
 </details>
