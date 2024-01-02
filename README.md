@@ -22,7 +22,7 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 
   #### `2회 밋업`
 
-  - 수십개 VPC 효율적으로 관리하기 (feat. TGW, IPAM, IP Prefix, etc) - 오동근 님
+  - 수십개 VPC 효율적으로 관리하기 (feat. TGW, IPAM, IP Prefix, etc) - 오동근 님 ([발표 자료](presentations/오동근_티맵_네트워크_재조립하기.pdf))
   - ECS, Amazon MQ를 이용한 올리브영 세일 선착순 쿠폰 개선 - 최재훈 님
   - [AWSKRUG #을지로 소모임 (11월 15일)](https://www.meetup.com/awskrug/events/297044308/)
 </details>
