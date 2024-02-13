@@ -15,6 +15,17 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 
 ## Meetups
 
+### 2024년
+
+<details>
+  <summary>3회 밋업 (24.02.07) - <b>생성형 AI(Generative AI) 현황 및 발전과정, 기술 트렌드, 데모 시연</b></summary>
+
+  #### `3회 밋업`
+
+  - 생성형 AI(Generative AI) 현황 및 발전과정, 기술 트렌드, 데모 시연 - 김현민 님 ([발표 자료](presentations/김현민_생성형_AI(Generative_AI)_현황_및_트렌드.pdf))
+  - [AWSKRUG #을지로 소모임 (2월 7일, 수요일)](https://www.meetup.com/awskrug/events/298706548/)
+</details>
+
 ### 2023년
 
 <details>
