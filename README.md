@@ -18,6 +18,17 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 ### 2024년
 
 <details>
+  <summary>4회 밋업 (24.03.13) - <b>Aurora PostgresQL 메이저 업그레이드 회고(Feat 블루/그린 배포)</b> & <b>JAWS-DAYS 2024 참관기</b> & <b>Blockchain 그리고 (철지난) NFT 이야기</b></summary>
+
+  #### `4회 밋업`
+
+  - Aurora PostgresQL 메이저 업그레이드 회고(Feat 블루/그린 배포) - 김동일 님 ([발표 자료](presentations/김동일_Aurora_PostgresQL_메이저_업그레이드_여정.pdf))
+  - JAWS-DAYS 2024 참관기 - 김현민 님
+  - Blockchain 그리고 (철지난) NFT 이야기 - 백재현 님
+  - [AWSKRUG #을지로 소모임 (3월 13일, 수요일)](https://www.meetup.com/awskrug/events/299455477/)
+</details>
+
+<details>
   <summary>3회 밋업 (24.02.07) - <b>생성형 AI(Generative AI) 현황 및 발전과정, 기술 트렌드, 데모 시연</b></summary>
 
   #### `3회 밋업`
