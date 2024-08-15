@@ -18,6 +18,32 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 ### 2024년
 
 <details>
+  <summary>6회 밋업 (24.08.07) - <b>JAWS와 AWS Summit Japan 2024 방문 후기</b> & <b>AWS Global Heroes Summit 참석 후기 + one more thing!</b></summary>
+
+  #### `6회 밋업`
+
+  - JAWS와 AWS Summit Japan 2024 방문 후기 - 김수빈 님 ([발표 자료](presentations/김수빈_JAWS와_AWS_Summit_Japan_2024_방문_후기.pdf))
+  - AWS Global Heroes Summit 참석 후기 + one more thing! - 김현민 님
+  - [AWSKRUG #을지로 소모임 (8월 7일, 수요일)](https://www.meetup.com/awskrug/events/302418971/)
+</details>
+
+<details>
+  <summary>5회 밋업 (24.06.12) - <b>AWS 예산 관리 / 사용 비용 관리 방안</b> 토의 & <b>EKS 쓰길 잘했다!? 못했다!?</b> 토의</summary>
+
+  #### `5회 밋업`
+
+  - AWS 예산 관리 / 사용 비용 관리 방안 - 토의
+    - AWS는 쓰는 만큼 비용이 나오는 서비스이다 보니, 재무팀/개발팀 등에서 AWS 사용 비용을 통제하거나 집행 하기에 어려움이 있습니다. (비용 넘었다고 통제하면 서비스가 멈추는.......)
+    - 이번달 1천만원이 나갈 것으로 예상했는데 뚜껑을 열어보니 3천만원이 나왔다면!? 회사 입장에서 난처 할 수 있겠죠!
+    - 특히 AWS 위에서 구동되는 서비스가 많고, AWS를 다루는 조직이 많고, AWS 계정이 여러개라면 이를 관리하는데 더욱 어려움이 많습니다.
+    - 이에 AWS 사용 예산을 어떤 식으로 계획하고 있고, 어떻게 모니터링 하고 어떻게 제어하는지 등등 조를 나눠 토의를 진행하여 모범 사례를 발굴해보는 시간을 가져보고자 합니다.
+  - EKS 쓰길 잘했다!? 못했다!? - 토의
+    - App 구동을 위해서 EC2, ECS, EKS, Lambda 등 여러 서비스 사용이 가능하지만, 많은 기업들에서 EKS 사용을 늘리는 추세입니다.
+    - 조를 나누어 EC2, ECS, Lambda에서 EKS로 전환 후의 회고, 혹은 EKS에서 ECS, EC2, Lambda로 전환 후의 회고를 진행하고, EKS 사용에 대한 모범 사례를 발굴해보는 시간을 가져보고자 합니다. (EKS 도입이 유리한 워크로드, 조직 규모, 사용 사례 등)
+  - [AWSKRUG #을지로 소모임 (6월 12일, 수요일)](https://www.meetup.com/awskrug/events/301329858/)
+</details>
+
+<details>
   <summary>4회 밋업 (24.03.13) - <b>Aurora PostgresQL 메이저 업그레이드 회고(Feat 블루/그린 배포)</b> & <b>JAWS-DAYS 2024 참관기</b> & <b>Blockchain 그리고 (철지난) NFT 이야기</b></summary>
 
   #### `4회 밋업`
