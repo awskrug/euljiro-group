@@ -18,6 +18,17 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 ### 2024년
 
 <details>
+  <summary>7회 밋업 (24.10.30) - <b>MSK/MSK connect를 활용한 시스템 통합</b> & <b>AWS Bedrock과 Claude 3.5 Sonnet을 활용한 자동 이미지 검수 시스템 구축기</b> & <b>ECS 를 활용한 대량 데이터 처리 방법</b></summary>
+
+  #### `7회 밋업`
+
+  - MSK/MSK connect를 활용한 시스템 통합 - 이지훈 님 (올리브영)
+  - AWS Bedrock과 Claude 3.5 Sonnet을 활용한 자동 이미지 검수 시스템 구축기 - 유주형 님 (올리브영)
+  - ECS 를 활용한 대량 데이터 처리 방법 - 최재훈 님 (올리브영)
+  - [AWSKRUG #을지로 소모임 (10월 30일, 수요일)](https://www.meetup.com/awskrug/events/303896410/)
+</details>
+
+<details>
   <summary>6회 밋업 (24.08.07) - <b>JAWS와 AWS Summit Japan 2024 방문 후기</b> & <b>AWS Global Heroes Summit 참석 후기 + one more thing!</b></summary>
 
   #### `6회 밋업`
