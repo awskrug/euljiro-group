@@ -23,7 +23,7 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
   #### `8회 밋업`
 
   - Vibe Coding 프로덕션 적용 사례 - 정도현 님 (ROBOCO)
-  - Cursor와 MCP 활용 방법 - 김수빈 님 (당근마켓)
+  - Cursor와 MCP 활용 방법 - 김수빈 님 (당근마켓) ([발표 자료](presentations/김수빈_Cursor와_MCP.pdf))
   - Amazon Q Developer/CLI 사용기 - 김현민 님 (메가존클라우드)
   - [AWSKRUG #을지로 소모임 (4월 17일, 목요일)](https://www.meetup.com/awskrug/events/306989337/)
 </details>
