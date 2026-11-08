@@ -15,6 +15,18 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 
 ## Meetups
 
+### 2026년
+
+<details>
+  <summary>9회 밋업 (26.04.07) - <b>AWS re:Invent 2025 re:Cap</b> & <b>장애에 강한 팀 만들기: 서버리스 온콜 시스템 구축과 서비스 모니터링 개선 실전기</b></summary>
+
+  #### `9회 밋업`
+
+  - AWS re:Invent 2025 re:Cap - 김수빈 님 ([발표 자료](presentations/김수빈_AWS_reInvent_2025_reCap.pdf))
+  - 장애에 강한 팀 만들기: 서버리스 온콜 시스템 구축과 서비스 모니터링 개선 실전기 - 이태근 님, 김수빈 님 ([발표 자료](presentations/이태근_김수빈_장애에_강한_팀_서버리스_온콜과_서비스_모니터링.pdf))
+  - [AWSKRUG #을지로 소모임 (4월 7일, 화요일)](https://www.meetup.com/awskrug/events/313714446/)
+</details>
+
 ### 2025년
 
 <details>
