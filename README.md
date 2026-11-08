@@ -18,6 +18,16 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 ### 2026년
 
 <details>
+  <summary>10회 밋업 (26.06.10) - <b>AI Agent를 활용한 MZC Tech Support 팀의 Abuse 대응 및 침해 분석 자동화 체계 소개</b> & <b>라이트닝 토크 및 네트워킹</b></summary>
+
+  #### `10회 밋업`
+
+  - AI Agent를 활용한 MZC Tech Support 팀의 Abuse 대응 및 침해 분석 자동화 체계 소개 - 최영훈 님 (메가존클라우드)
+  - 라이트닝 토크 및 네트워킹 (자유 주제)
+  - [AWSKRUG #을지로 소모임 (6월 10일, 수요일)](https://www.meetup.com/awskrug/events/314979179/)
+</details>
+
+<details>
   <summary>9회 밋업 (26.04.07) - <b>AWS re:Invent 2025 re:Cap</b> & <b>장애에 강한 팀 만들기: 서버리스 온콜 시스템 구축과 서비스 모니터링 개선 실전기</b></summary>
 
   #### `9회 밋업`
