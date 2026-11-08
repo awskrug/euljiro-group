@@ -18,6 +18,16 @@ AWS 초보, 숙련자 모두 모여서 공유하고 싶은 이야기, 논의 하
 ### 2026년
 
 <details>
+  <summary>11회 밋업 (26.10.26) - <b>KiroCrew 소개</b> & <b>올리브영 안드로이드 앱 Native 지면 개선기</b></summary>
+
+  #### `11회 밋업`
+
+  - KiroCrew 소개 - 김현민 님 (메가존클라우드) ([발표 자료](presentations/김현민_KiroCrew_소개.pdf))
+  - 올리브영 안드로이드 앱 Native 지면 개선기 - 유준성 님 (올리브영) ([발표 자료](presentations/유준성_올리브영_안드로이드_앱_Native_지면_개선기.pdf))
+  - [AWSKRUG #을지로 소모임 - KiroCrew 및 올리브영앱 개선 사례 (10월 26일)](https://www.meetup.com/awskrug/events/316977004/)
+</details>
+
+<details>
   <summary>10회 밋업 (26.06.10) - <b>AI Agent를 활용한 MZC Tech Support 팀의 Abuse 대응 및 침해 분석 자동화 체계 소개</b> & <b>라이트닝 토크 및 네트워킹</b></summary>
 
   #### `10회 밋업`
